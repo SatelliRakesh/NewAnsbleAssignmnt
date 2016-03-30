@@ -1,5 +1,4 @@
 [webservers]
-52.79.144.14
 
 [webservers:vars]
 ansible_ssh_user=rakesh
